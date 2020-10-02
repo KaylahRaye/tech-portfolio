@@ -9,9 +9,9 @@ include a little bit about yourself. Some things you
 might include:
 
 1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+2. Organizations you're involved with
+3. Your personal and professional values
+4. Hobbies or fun facts
 
 Write it in first (I) or third (Your Name Here) person.
 
@@ -19,6 +19,7 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
+Full Stack Developer
 Grace Hopper Celebration Attendee
 
 ## Recognition
