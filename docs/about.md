@@ -20,6 +20,7 @@ Write it in first (I) or third (Your Name Here) person.
 ## Current Role
 
 Full Stack Developer
+
 Grace Hopper Celebration Attendee
 
 ## Recognition
